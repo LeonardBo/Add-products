@@ -1,0 +1,67 @@
+html{
+    background-color: antiquewhite;
+}
+.title{
+    margin-left: 20px;
+    padding-top: 30px;
+    width:50%;
+}
+#ADD{
+    background-color:greenyellow;
+    margin-left:200px;
+    position:relative;
+    left:77%;
+    top:-30px;
+    color:black;
+}
+#delete-product-btn{
+    background-color: red;
+    position:relative;
+    left:92%;
+    top:-60px;
+}
+#delete-product-btn:hover{
+    background-color:brown;
+}
+#ADD:hover{
+    background-color:green;
+}
+.line{
+    width: 98%;
+    height:2px;
+    background-color: black;
+    margin-left:20px;
+    margin-top:20px;
+    margin-right:20px;
+    position:absolute;
+    top:88px;
+}
+.bord{
+    padding-top:50px;
+    border:2px solid black;
+    text-align:center;
+    height: 200px;
+    margin-left: 75px;
+    margin-right:70px;
+    margin-bottom:30px;
+    margin-top:10px;
+    line-height:10px;  
+    border-radius:5px;
+    background-color: rgb(116, 190, 255);
+}
+
+.items{
+    background-color: antiquewhite;
+    width:100%;
+    height:500px;
+}
+.delete-checkbox{
+    position:absolute;
+    left:20px;
+    top: 20px;
+    accent-color: red;
+    cursor:pointer;
+}
+.header{
+    background-color: antiquewhite;
+}
